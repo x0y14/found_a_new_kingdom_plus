@@ -1,0 +1,18 @@
+﻿l_english:
+  fankp_choose_default_name: "Default"
+  fankp_choose_default_desc: "Default"
+  fankp_choose_default_tooltip: "$fankp_choose_default_desc$"
+
+  fankp_choose_no_set_de_jure_liege_name: "Protect Old Title"
+  fankp_choose_no_set_de_jure_liege_desc: "Don't Change De jure liege, In other words, no permanent map changes.\nCreate Title Only."
+  fankp_choose_no_set_de_jure_liege_tooltip: "$fankp_choose_no_set_de_jure_liege_desc$"
+
+  fankp_choose_use_house_name_and_coa_name: "Like Clan"
+  fankp_choose_use_house_name_and_coa_desc: "Use House Name and CoA"
+  fankp_choose_use_house_name_and_coa_tooltip: "$fankp_choose_use_house_name_and_coa_desc$"
+
+  fankp_choose_use_house_name_and_coa_no_set_de_jure_liege_name: "Protect & Clan"
+  fankp_choose_use_house_name_and_coa_no_set_de_jure_liege_desc: "Use House Name and CoA, Don't Set De jure liege"
+  fankp_choose_use_house_name_and_coa_no_set_de_jure_liege_tooltip: "$fankp_choose_use_house_name_and_coa_no_set_de_jure_liege_desc$"
+
+  fankp_CHOOSE_THIS_WAY: "Choose this way"
